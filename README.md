@@ -6,7 +6,7 @@ Introduction
 Part 1: Tecnical 
 Chapter 1: History
 Chapter 2: Coding
-Chapter 3: 
+Chapter 3: d
 Chapter 4:
 Chapter 5: NFTs
 Chapter 6: Sidechains
