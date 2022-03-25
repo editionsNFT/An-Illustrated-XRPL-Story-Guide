@@ -1,18 +1,20 @@
 # The-Definitive-Guide-to-build-on-the-XRPL
 
-- Table of Contents
+- Table of Contents (incomplete and under review)
 - Cover
--  Introduction
-Part 1: Tecnical 
-- Chapter 1: History
-- Chapter 2: Coding
-- Chapter 3: 
-- Chapter 4:
-- Chapter 5: NFTs XLS20-d
-- Chapter 6: Sidechains
-- Chapter 7: Hooks
-Part 2: Projects
-- Chapter 8: Tokenomics
+- Introduction
+- Part 1: History
+- Part 2: Technical 
+- Coding
+- NFTs XLS20-d
+- Sidechains
+- Smart Contracts/Hooks
+- Apps
+- Interoperability
+- Part 3: Projects
+- 
+- Tokenomics
 - Chapter 9: Social Media
-- etc
+- Community
+- Grants
 Appendices:
