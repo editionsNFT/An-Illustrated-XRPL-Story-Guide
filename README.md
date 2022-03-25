@@ -13,4 +13,5 @@ Chapter 6: Sidechains
 Chapter 7: Hooks
 Part 2: Projects
 Chapter 8: 
+Chapter 9
 Appendices:
