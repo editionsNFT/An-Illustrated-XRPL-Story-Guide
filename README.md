@@ -12,5 +12,5 @@ Chapter 5: NFTs
 Chapter 6: Sidechains
 Chapter 7: Hooks
 Part 2: Projects
-
+Chapter 8: 
 Appendices:
