@@ -1,20 +1,18 @@
 # XRPL Guide - a Story in the making
 
-- Table of Contents (incomplete and under review)
+- Table of Contents (incomplete, under review and in no particular Chapter order)
 - Cover
 - Introduction
-- Part 1: History
-- Part 2: Technical 
-- Coding
-- NFTs XLS20-d
-- Sidechains
-- Smart Contracts/Hooks
+- CHAPTERS
+- History
+- NFTs 
+- Federated Sidechains
+- Hooks
 - Apps
 - Interoperability
-- Part 3: Projects
-- 
+- Projects
 - Tokenomics
-- Chapter 9: Social Media
-- Community
-- Grants
-Appendices:
+- Social Media
+- XRPL Community
+- Ripple Grants
+- Appendices
