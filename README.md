@@ -1,11 +1,18 @@
-# XRPL Guide - a Story in the making
+# Illustrated XRPL Guide - a Story in the making
 
-- Table of Contents (incomplete, under review and in no particular Chapter order)
+- Table of Contents
 - Cover
 - Introduction
-- CHAPTERS
+- CHAPTERS (in no particular order)
 - History
-- NFTs 
+- Languages (Python, Java, Javascript, etc)
+- NFTs
+- Micropayments
+- Cryptocurrency Wallets
+- Exchanges
+- DeFi
+- CBDCs
+- Stablecoins
 - Federated Sidechains
 - Hooks
 - Apps
