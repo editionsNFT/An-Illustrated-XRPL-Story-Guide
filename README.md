@@ -1,4 +1,4 @@
-# The-Definitive-Guide-to-build-on-the-XRPL
+# XRPL Guide - a Story in the making
 
 - Table of Contents (incomplete and under review)
 - Cover
