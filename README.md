@@ -3,7 +3,7 @@
 - Table of Contents
 - Cover
 - Introduction
-- CHAPTERS (in no particular order)
+- POTENTIAL CHAPTERS (in no particular order)
 - History
 - Languages (Python, Java, Javascript, etc)
 - NFTs
