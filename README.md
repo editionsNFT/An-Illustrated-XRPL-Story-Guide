@@ -1,4 +1,4 @@
-#The Illustrated XRPL Story Guide
+#An Illustrated XRPL Story Guide
 
 - Table of Contents
 - Cover
@@ -22,4 +22,4 @@
 - Social Media
 - XRPL Community
 - Ripple Grants
-- Appendices
+
