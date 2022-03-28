@@ -1,4 +1,4 @@
-# Illustrated XRPL Guide - a Story in the making
+#The Illustrated XRPL Story Guide
 
 - Table of Contents
 - Cover
