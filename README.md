@@ -10,16 +10,16 @@ Hello and welcome to the creed.
 |  | **Introduction** |
 |1 | [XRP? What is that!](#what-is-xrp) |
 |2 | [Why, exactly, do we require XRP? ](#xrpl-features) |
-|3 | [Nothing matter but you...](#xrpl-community) |
+|3 | [Nothing matters but you...](#xrpl-community) |
 |4 | [What's a wallet? Xumm? IDK](#wallet) |
 |5 | [Defi - more like: "It's my money bro I will do whatever" ](#xrpl-defi) |
-|6 | [Trustlines? NFTokens? Hooks?..etc](#xrpl-feature-details) |
+|6 | [Trustlines? NFTs Tokens? Hooks?..etc](#xrpl-feature-details) |
 |7 | [I can't write this anymore](#developer-frustation-1) |
 |8 | [So you're a developer?](#xrpl-developer) |
 |9 | [How can you help? JUST RUN A NODE!! ](#how-to-run-xrpl-node) |
-|10 | [I heard you're single...threaded language lover. (JS Guide)](#xrpl-js-guide) |
+|10 | [I heard you're single...threaded language lover (JS Guide)](#xrpl-js-guide) |
 |11 | [You like classes? Bet you don't have pointers (Java Guide) ](#xrpl-java-guide) |
-|12 | [Sup! tortoise, oh wait you a python (Python Guide)](#xrpl-python-guide) |
+|12 | [Sup! tortoise, oh wait you are a python (Python Guide)](#xrpl-python-guide) |
 |13 | [You can't C me, feel old yet? (C/C++ Guide)](#xrpl-ccplusplus-guide) |
 |14 | [I need a break](#developer-frustation-2)
 |15 | [Just why NFT? XLS20D! At the least, give a cool name like: XRPL 2.0](#xrpl-nfts) |
