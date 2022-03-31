@@ -14,7 +14,7 @@ Hello and welcome to the creed.
 |4 | [What's a wallet? Xumm? How do you pronounce that?](#wallet) |
 |5 | [Defi - more like: "It's my money bro I will do whatever" ](#xrpl-defi) |
 |6 | [Trustlines? NFTs? Tokens? Hooks?..etc](#xrpl-feature-details) |
-|7 | [I can't write this anymore](#developer-frustation-1) |
+|7 | [I can't write this anymore, scams and rugpulls](#developer-frustation-1) |
 |8 | [So you're a developer?](#xrpl-developer) |
 |9 | [How can you help? JUST RUN A NODE!! ](#how-to-run-xrpl-node) |
 |10 | [I heard you're single...threaded language lover (JS Guide)](#xrpl-js-guide) |
