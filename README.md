@@ -22,7 +22,7 @@ Hello and welcome to the creed. THE XRPL CREED.
 |12 | [Sup! tortoise, oh wait you are a python (Python Guide)](#xrpl-python-guide) |
 |13 | [You can't C me, feel old yet? (C/C++ Guide)](#xrpl-ccplusplus-guide) |
 |14 | [I need a break](#developer-frustation-2)
-|15 | [Just why NFT? XLS20D! At the least, give a cool name like: XRPL 2.0](#xrpl-nfts) |
+|15 | [Just why NFT? XLS20D! At the least, give a cool name!](#xrpl-nfts) |
 |16 | [Hooks? Like captain hook?](#xrpl-hooks) |
 |17 | [What are these Ripple Grants programs? Free money guys](#ripple-grants) |
 |18 | [Are we out of the XRPL Maze yet?](#ripple-creator-funds) |
