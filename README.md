@@ -24,8 +24,8 @@ Hello and welcome to the creed. THE XRPL CREED.
 |14 | [I need a break](#developer-frustation-2)
 |15 | [Just why NFT? XLS20D! At the least, give a cool name like: XRPL 2.0](#xrpl-nfts) |
 |16 | [Hooks? Like captain hook?](#xrpl-hooks) |
-|17 | [What's Ripple Grants program? Free money guys](#ripple-grants) |
-|18 | [Ripple creator funds? They need to stop now](#ripple-creator-funds) |
+|17 | [What are these Ripple Grants programs? Free money guys](#ripple-grants) |
+|18 | [Are we out of the XRPL Maze yet?](#ripple-creator-funds) |
 |19 | [List of XRPL Projects...haha ok](#xrpl-projects) |
 |20 | [Meme Projects here](#xrpl-project-1) |
 |21 | [Music/Art/etc Projects here](#xrpl-project-2) |
