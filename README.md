@@ -1,7 +1,7 @@
 # An Illustrated XRPL Story Guide
 
 This repository contains a well-written story about the XRP Ledger. We travelled from the deepest shadows to the brightest daylight, gathering the most useful facts about the XRPL. Fellow traveller, you've finally arrived at your destination.
-Hello and welcome to the creed. 
+Hello and welcome to the creed. THE XRPL CREED.
 
 ### Table of Contents
 
@@ -27,8 +27,8 @@ Hello and welcome to the creed.
 |17 | [What's Ripple Grants program? Free money guys](#ripple-grants) |
 |18 | [Ripple creator funds? They need to stop now](#ripple-creator-funds) |
 |19 | [List of XRPL Projects...haha ok](#xrpl-projects) |
-|20 | [Multiple Project details](#xrpl-project-1) |
-|21 | [Multiple Project details](#xrpl-project-2) |
-|22 | [Multiple Project details](#xrpl-project-3) |
-|23 | [Multiple Project details](#xrpl-project-4) |
+|20 | [Meme Projects here](#xrpl-project-1) |
+|21 | [Music/Art/etc Projects here](#xrpl-project-2) |
+|22 | [Metaverse/Game Projects here](#xrpl-project-3) |
+|23 | [Defi/Utility Projects here](#xrpl-project-4) |
 |24 | [I am done! Like actually..can someone send me some XRP?](#developer-frustation-3)|
