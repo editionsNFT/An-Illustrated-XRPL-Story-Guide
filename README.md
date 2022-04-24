@@ -11,8 +11,8 @@ The idea is to have a guide that is both current today and in the future.
 | --- | --------- |
 |  | **Introduction** |
 |1 | [XRP? What is that!](#what-is-xrp) |
-|2 | [Why, exactly, do we require XRP? ](#xrpl-features) |
-|3 | [Nothing matters but you...](#xrpl-community) |
+|2 | [Why exactly, do we require XRP? ](#xrpl-features) |
+|3 | [XRPL Community: Nothing matters but you...](#xrpl-community) |
 |4 | [What's a wallet? Xumm? How do you pronounce that?](#wallet) |
 |5 | [Defi - more like: "It's my money bro I will do whatever" ](#xrpl-defi) |
 |6 | [Trustlines? NFTs? Tokens? Hooks?..etc](#xrpl-feature-details) |
