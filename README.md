@@ -1,9 +1,8 @@
 # An Illustrated XRPL Story Guide
 
 This is a story in the making. A story under development.
-The intention is to interview XRPL projects currently under development and incorporate key lesson learned that they encountered in their development journey into the guide via an illustrated story.  
+The plan is to interview projects that are developing on the XRPL and incorporate key lesson learned that they encountered into the guide via an illustrated story.  
 The layout, content, story flow and illustrations are still to be determined.  An initial suggested chapter outline is proposed below, but this will change, depending on our findings.
-The aim is to encourage new developement on the XRPL.  and to avoid , infograplessons learned, difficulties encountered, what was wasy
 
 ### Table of Contents
 
