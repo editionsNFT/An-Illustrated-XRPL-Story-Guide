@@ -2,7 +2,7 @@
 
 This is a story in the making. A story literally under development.
 The plan is to interview projects that are developing on the XRPL and incorporate key lesson learned that they encountered into the guide via an illustrated story.  The aim is to encourage development on the XRPL via this unique medium of communication.
-The layout, content, story flow and illustrations are still to be determined.  An initial suggested topics outline is proposed below, but this will change, depending on our findings. 
+The layout, content, story flow and illustrations are still to be determined.  An initial suggested topics outline (in no particular order) is proposed below, but this will change, depending on our findings. 
 The idea is to have a guide that is both current today and in the future.
 
 ### Table of Contents
@@ -10,10 +10,10 @@ The idea is to have a guide that is both current today and in the future.
 | Topic No. | Questions |
 | --- | --------- |
 |  | **Introduction** |
-|1 | [XRP? What is that!](#what-is-xrp) |
-|2 | [Why exactly, do we require XRP? ](#xrpl-features) |
-|3 | [XRPL Community: Nothing matters but you...](#xrpl-community) |
-|4 | [What's a wallet? Xumm? How do you pronounce that?](#wallet) |
+|1 | [XRPL? What is that!](#what-is-xrpl) |
+|2 | [Why exactly do we require XRP? ](#xrpl-features) |
+|3 | [XRPL Community](#xrpl-community) |
+|4 | [Finding the wallet](#wallet) |
 |5 | [Defi - more like: "It's my money bro I will do whatever" ](#xrpl-defi) |
 |6 | [Trustlines? NFTs? Tokens? Hooks?..etc](#xrpl-feature-details) |
 |7 | [I can't write this anymore, scams and rugpulls](#developer-frustation-1) |
