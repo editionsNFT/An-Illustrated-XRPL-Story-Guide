@@ -2,12 +2,12 @@
 
 This is a story in the making. A story literally under development.
 The plan is to interview projects that are developing on the XRPL and incorporate key lesson learned that they encountered into the guide via an illustrated story.  The aim is to encourage development on the XRPL via this unique medium of communication.
-The layout, content, story flow and illustrations are still to be determined.  An initial suggested chapter outline is proposed below, but this will change, depending on our findings. 
+The layout, content, story flow and illustrations are still to be determined.  An initial suggested topics outline is proposed below, but this will change, depending on our findings. 
 The idea is to have a guide that is both current today and in the future.
 
 ### Table of Contents
 
-| Chapter No. | Questions |
+| Topic No. | Questions |
 | --- | --------- |
 |  | **Introduction** |
 |1 | [XRP? What is that!](#what-is-xrp) |
