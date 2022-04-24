@@ -1,7 +1,9 @@
 # An Illustrated XRPL Story Guide
 
-This repository contains a well-written story about the XRP Ledger. We travelled from the deepest shadows to the brightest daylight, gathering the most useful facts about the XRPL. Fellow traveller, you've finally arrived at your destination.
-Hello and welcome to the creed. THE XRPL CREED.
+This is a story in the making. A story under development.
+The intention is to interview XRPL projects currently under development and incorporate key lesson learned that they encountered in their development journey into the guide via an illustrated story.  
+The layout, content, story flow and illustrations are still to be determined.  An initial suggested chapter outline is proposed below, but this will change, depending on our findings.
+The aim is to encourage new developement on the XRPL.  and to avoid , infograplessons learned, difficulties encountered, what was wasy
 
 ### Table of Contents
 
