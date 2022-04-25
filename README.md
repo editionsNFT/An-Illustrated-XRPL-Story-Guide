@@ -1,8 +1,9 @@
 # An Illustrated XRPL Story Guide
-
 This is a story in the making. A story literally under development.
-The plan is to interview projects that are developing on the XRPL and incorporate key lesson learned that they encountered into the guide via an illustrated story.  The aim is to encourage development on the XRPL via this unique medium of communication.
-The layout, content, story flow and illustrations are still to be determined.  An initial suggested topics outline (in no particular order) is proposed below, but this will change, depending on our findings. 
+The plan is to interview projects that are developing on the XRPL and incorporate key lesson learned that they encountered into the guide via an illustrated story.  
+The ultimate aim of the guide is to encourage development on the XRPL via this unique medium of communication.
+The layout, content, story flow and illustrations are still to be determined.  
+An initial suggested list of topics related to development on the XRPL is proposed below.  The list is in no particular order, and the final content will depend on our conversations with XRPL projects, the XRPL community and Ripple.
 The idea is to have a guide that is both current today and in the future.
 
 ### Table of Contents
@@ -10,27 +11,27 @@ The idea is to have a guide that is both current today and in the future.
 | Topic No. | Questions |
 | --- | --------- |
 |  | **Introduction** |
-|1 | [XRPL? What is that!](#what-is-xrpl) |
-|2 | [Why exactly do we require XRP? ](#xrpl-features) |
+|1 | [Ripple and XRP](#what-is-xrpl) |
+|2 | [XRPL](#xrpl-features) |
 |3 | [XRPL Community](#xrpl-community) |
-|4 | [Finding the wallet](#wallet) |
-|5 | [Defi - more like: "It's my money bro I will do whatever" ](#xrpl-defi) |
-|6 | [Trustlines? NFTs? Tokens? Hooks?..etc](#xrpl-feature-details) |
-|7 | [I can't write this anymore, scams and rugpulls](#developer-frustation-1) |
-|8 | [So you're a developer?](#xrpl-developer) |
-|9 | [How can you help? JUST RUN A NODE!! ](#how-to-run-xrpl-node) |
-|10 | [I heard you're single...threaded language lover (JS Guide)](#xrpl-js-guide) |
-|11 | [You like classes? Bet you don't have pointers (Java Guide) ](#xrpl-java-guide) |
-|12 | [Sup! tortoise, oh wait you are a python (Python Guide)](#xrpl-python-guide) |
-|13 | [You can't C me, feel old yet? (C/C++ Guide)](#xrpl-ccplusplus-guide) |
-|14 | [I need a break](#developer-frustation-2)
-|15 | [Just why NFT? XLS20D! At the least, give a cool name!](#xrpl-nfts) |
-|16 | [Hooks? Like captain hook?](#xrpl-hooks) |
-|17 | [What are these Ripple Grants programs? Free money guys](#ripple-grants) |
-|18 | [Are we out of the XRPL Maze yet?](#ripple-creator-funds) |
-|19 | [List of XRPL Projects...haha ok](#xrpl-projects) |
-|20 | [Meme Projects here](#xrpl-project-1) |
-|21 | [Music/Art/etc Projects here](#xrpl-project-2) |
-|22 | [Metaverse/Game Projects here](#xrpl-project-3) |
-|23 | [Defi/Utility Projects here](#xrpl-project-4) |
+|4 | [Wallet](#wallet) |
+|5 | [Developed Tools](#xrpl-tools) |
+|6 | [Developer Concepts](#xrpl-concepts) |
+|7 | [Hackatons](#xrpl-hackaton) |
+|8 | [Developer Libraries](#xrpl-developer) |
+|9 | [Nodes](#how-to-run-xrpl-node) |
+|10 | [Languages: JavaScript, Python, Java, C/C++ etc](#xrpl-languages-guide) |
+|11 | [Libraries](#xrpl-libraries) |
+|12 | [DEX](#xrpl-dex) |
+|13 | [Apps](#xrpl-apps) |
+|14 | [Tokens](#xrpl-tokens)
+|15 | [NFTs](#xrpl-nfts) |
+|16 | [Hooks](#xrpl-hooks) |
+|17 | [Federated sidechains](#xrpl-sidechains) |
+|18 | [Private Ledger](#xrpl-private) |
+|19 | [Types of project development](#xrpl-projects) |
+|20 | [Meme Projects](#xrpl-projects-1) |
+|21 | [Music/Art/etc Projects](#xrpl-projects-2) |
+|22 | [Metaverse/Game Projects](#xrpl-project-3) |
+|23 | [Defi/Utility Projects](#xrpl-project-4) |
 |24 | [I am done! Like actually..can someone send me some XRP?](#developer-frustation-3)|
