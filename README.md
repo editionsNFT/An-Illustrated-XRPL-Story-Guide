@@ -16,7 +16,7 @@ The idea is to have an illustrated story guide that is both current today and in
 |2 | [XRPL](#xrpl-features) |
 |3 | [XRPL Community](#xrpl-community) |
 |4 | [Wallet](#wallet) |
-|5 | [Developed Tools](#xrpl-tools) |
+|5 | [Developer Tools](#xrpl-tools) |
 |6 | [Developer Concepts](#xrpl-concepts) |
 |7 | [Hackatons](#xrpl-hackaton) |
 |8 | [Developer Libraries](#xrpl-developer) |
