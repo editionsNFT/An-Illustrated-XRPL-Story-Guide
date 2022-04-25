@@ -4,14 +4,14 @@ The plan is to interview projects that are developing on the XRPL and incorporat
 The ultimate aim of the guide is to encourage development on the XRPL via this unique medium of communication.
 The layout, content, story flow and illustrations are still to be determined.  
 An initial suggested list of topics related to development on the XRPL is proposed below.  The list is in no particular order, and the final content will depend on our conversations with XRPL projects, the XRPL community and Ripple.
-The idea is to have a guide that is both current today and in the future.
+The idea is to have an illustrated story guide that is both current today and in the future.
 
 ### Table of Contents
 
 | Topic No. | Questions |
 | --- | --------- |
 |  | **Introduction** |
-|1 | [Ripple and XRP](#what-is-xrpl) |
+|1 | [Ripple and XRP](#intro) |
 |2 | [XRPL](#xrpl-features) |
 |3 | [XRPL Community](#xrpl-community) |
 |4 | [Wallet](#wallet) |
