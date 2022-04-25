@@ -3,7 +3,7 @@ This is a story in the making. A story literally under development.
 The plan is to interview projects that are developing on the XRPL and incorporate key lesson learned that they encountered into the guide via an illustrated story.  
 The ultimate aim of the guide is to encourage development on the XRPL via this unique medium of communication.
 The layout, content, story flow and illustrations are still to be determined.  
-An initial suggested list of topics related to development on the XRPL is proposed below.  The list is in no particular order, and the final content will depend on our conversations with XRPL projects, the XRPL community and Ripple.
+An initial list of topics related to development on the XRPL is proposed below.  The list is in no particular order, and the final content will depend on conversations with XRPL projects, the XRPL community and Ripple.
 The idea is to have an illustrated story guide that is both current today and in the future.
 
 ### Table of Contents
@@ -11,7 +11,7 @@ The idea is to have an illustrated story guide that is both current today and in
 | Topic No. | Questions |
 | --- | --------- |
 |  | **Introduction** |
-|1 | [Ripple and XRP](#intro) |
+|1 | [Ripple and XRP](#Ripple) |
 |2 | [XRPL](#xrpl-features) |
 |3 | [XRPL Community](#xrpl-community) |
 |4 | [Wallet](#wallet) |
@@ -31,7 +31,7 @@ The idea is to have an illustrated story guide that is both current today and in
 |18 | [Private Ledger](#xrpl-private) |
 |19 | [Types of project development](#xrpl-projects) |
 |20 | [Meme Projects](#xrpl-projects-1) |
-|21 | [Music/Art/etc Projects](#xrpl-projects-2) |
-|22 | [Metaverse/Game Projects](#xrpl-project-3) |
-|23 | [Defi/Utility Projects](#xrpl-project-4) |
-|24 | [I am done! Like actually..can someone send me some XRP?](#developer-frustation-3)|
+|21 | [Music/Art/Literature Projects](#xrpl-projects-2) |
+|22 | [Metaverse/Game/AR/VR Projects](#xrpl-projects-3) |
+|23 | [Utility: Defi/Payments/Wallets Projects](#xrpl-projects-4) |
+|24 | [Future development possibilities](#xrpl-future)|
