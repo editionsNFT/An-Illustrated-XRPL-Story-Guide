@@ -22,7 +22,7 @@ The idea is to have an illustrated story guide that is both current today and in
 |6 | [Developer Concepts](#xrpl-concepts) |
 |7 | [Hackatons](#xrpl-hackaton) |
 |8 | [Developer Libraries](#xrpl-developer) |
-|9 | [Nodes](#how-to-run-xrpl-node) |
+|9 | [Nodes, amendment process](#how-to-run-xrpl-node) |
 |10 | [Languages: JavaScript, Python, Java, C/C++ etc](#xrpl-languages-guide) |
 |11 | [Libraries](#xrpl-libraries) |
 |12 | [DEX](#xrpl-dex) |
@@ -31,10 +31,10 @@ The idea is to have an illustrated story guide that is both current today and in
 |15 | [NFTs](#xrpl-nfts) |
 |16 | [Hooks](#xrpl-hooks) |
 |17 | [Federated sidechains](#xrpl-sidechains) |
-|18 | [Private Ledger](#xrpl-private) |
+|18 | [Internet of Value](#xrpl-IOV) |
 |19 | [Types of project development](#xrpl-projects) |
 |20 | [Meme Projects](#xrpl-projects-1) |
 |21 | [Music/Art/Literature Projects](#xrpl-projects-2) |
 |22 | [Metaverse/Game/AR/VR Projects](#xrpl-projects-3) |
 |23 | [Utility: Defi/Payments/Wallets Projects](#xrpl-projects-4) |
-|24 | [Future development possibilities](#xrpl-future)|
+|24 | [Future development](#xrpl-future)|
