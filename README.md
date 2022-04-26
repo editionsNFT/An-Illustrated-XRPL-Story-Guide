@@ -1,5 +1,5 @@
 # An Illustrated XRPL Story Guide
-This is a story in the making. A story literally under development.
+This is a story in the making.
 The plan is to interview projects that are developing on the XRPL and incorporate key lesson learned that they encountered into the guide via an illustrated story.  
 
 The ultimate aim of the guide is to encourage development on the XRPL via this unique medium of communication.
