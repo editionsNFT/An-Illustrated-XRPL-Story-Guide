@@ -7,7 +7,7 @@ The layout, content, story flow and illustrations are still to be determined.
 
 An initial list of topics related to development on the XRPL is proposed below.  The list is in no particular order, and the final content will depend on conversations with XRPL projects, the XRPL community and Ripple. 
 
-The idea is to have an illustrated story guide that is both current today and in the future.
+The idea is to have an illustrated story guide with content that is both current today and in the future.
 
 ### Table of Contents
 
